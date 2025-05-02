@@ -1,4 +1,4 @@
-# MyDailyLuck 🌟
+# MyDailyLuck 🍀
 
 A motivational Android app that gives you a daily “Luck Score” based on your guess of a random number (1–100).
 
