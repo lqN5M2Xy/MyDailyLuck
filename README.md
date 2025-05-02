@@ -2,11 +2,7 @@
 
 A motivational Android app that gives you a daily “Luck Score” based on your guess of a random number (1–100).
 
----
 
-# MyDailyLuck 🌟
-
-*A motivational Android app with daily randomness and Compose UI.*
 
 📲 **Available on Google Play**  
 <a href="https://play.google.com/store/apps/details?id=com.lokrey.lqN5M2Xy.mydailyluck">
