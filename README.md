@@ -11,7 +11,7 @@ A motivational Android app that gives you a daily “Luck Score” based on your
 
 
 
----
+
 
 ## 🚀 Features
 
@@ -30,7 +30,7 @@ A motivational Android app that gives you a daily “Luck Score” based on your
 - **In-App Legal**  
   Includes Info screen with Imprint, Privacy Policy and Terms of Use (rendered from Markdown).
 
----
+
 
 ## 🛠️ Technology Stack
 
@@ -41,13 +41,13 @@ A motivational Android app that gives you a daily “Luck Score” based on your
 - **Gradle Kotlin DSL** (`.kts`)  
 - **Min SDK**: 21 (Android 5.0), Target SDK: 31+
 
----
+
 
 ## 🤝 Feedback
 
 This project is not open for public contributions, but feedback and suggestions are welcome via GitHub Issues.
 
----
+
 
 ## 🔧 Getting Started
 
